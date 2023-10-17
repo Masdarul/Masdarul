@@ -8,7 +8,7 @@ Now I am active as an information system study student with an interest in the w
 - 🌱 I’m currently learning about machine learning and Web developer
 - ⚡  I'm excited to create open-source projects
 - 😁 I'm natively speak Indonesian
-- 😁 I'm intermediate to speak English
+
 
   
 ### Github Statistic
@@ -20,5 +20,7 @@ Now I am active as an information system study student with an interest in the w
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/abdul-azis-sukmawan/">LinkedIn</a>
-<!-- - <a href="https://www.amawan.me/">amawan.me</a> -->
+- <a href="https://www.linkedin.com/in/masdarul-rizqi-46ba17249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
+
+### Favorite artist and favorite winter song
+![img](https://m.facebook.com/story.php?story_fbid=pfbid0KitxonV1p6QL3sFaFtrKspNU31HT7Zj64ekmS1fjCYVAwAmpxA9LZqMN71uQeadJl&id=100006486472892&mibextid=NOb6eG)
