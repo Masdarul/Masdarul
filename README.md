@@ -23,4 +23,4 @@ Now I am active as an information system study student with an interest in the w
 - <a href="https://www.linkedin.com/in/masdarul-rizqi-46ba17249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
 
 ### Favorite artist and favorite winter song
-![img](https://m.facebook.com/story.php?story_fbid=pfbid0KitxonV1p6QL3sFaFtrKspNU31HT7Zj64ekmS1fjCYVAwAmpxA9LZqMN71uQeadJl&id=100006486472892&mibextid=NOb6eG)
+![facebook_1697574857848_7120145016574567576.jpg](https://github.com/Masdarul/Masdarul/assets/103945666/9e9d2f4e-01dc-47cd-b509-c71a03d68750)
