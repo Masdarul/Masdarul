@@ -1,6 +1,6 @@
 <img src="https://github.com/Masdarul/Masdarul/blob/main/img/Profil.png?raw=true" align="middle"  />
 
-### Hi! 👋 I'm Rizqi.
+### Hi! 👋 I'm Masdarul Rizqi.
 
 An enthusiastic and dedicated student of Information Systems with a passion for the fascinating world oftechnology. Excited to learn and explore programming, new technologies.
 
@@ -17,7 +17,7 @@ Now I am active as an information system study student with an interest in the w
 <p align="left">
 <a href="https://github.com/Masdarul">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masdarul&theme=bear" width=750  alt="stats graph"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Masdarul&&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Masdarul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Masdarul&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
