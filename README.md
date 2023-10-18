@@ -1,3 +1,5 @@
+<img src="https://github.com/Masdarul/Masdarul/blob/main/img/Profil.png?raw=true" align="middle"  />
+
 ### Hi! 👋 I'm Rizqi.
 
 An enthusiastic and dedicated student of Information Systems with a passion for the fascinating world oftechnology. Excited to learn and explore programming, new technologies.
