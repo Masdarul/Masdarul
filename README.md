@@ -15,8 +15,8 @@ Now I am active as an information system study student with an interest in the w
 <p align="left">
 <a href="https://github.com/Masdarul">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masdarul&theme=bear" width=750  alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masdarul&theme=dracula" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Masdarul&theme=dracula" width="62%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Masdarul&&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Masdarul&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
