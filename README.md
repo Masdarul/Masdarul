@@ -9,8 +9,8 @@ Now I am active as an information system study student with an interest in the w
 - ⚡  I'm excited to create open-source projects
 - 😁 I'm natively speak Indonesian
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/Masdarul">
@@ -20,8 +20,10 @@ Now I am active as an information system study student with an interest in the w
 </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ### Reach me on
 - <a href="https://www.linkedin.com/in/masdarul-rizqi-46ba17249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### Favorite artist and favorite winter song
 ![facebook_1697574857848_7120145016574567576.jpg](https://github.com/Masdarul/Masdarul/assets/103945666/9e9d2f4e-01dc-47cd-b509-c71a03d68750)
