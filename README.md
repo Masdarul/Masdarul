@@ -1,5 +1,3 @@
-<img src="https://github.com/Masdarul/Masdarul/blob/main/img/Profil.png?raw=true" align="middle"  />
-
 ### Hi! 👋 I'm Masdarul Rizqi.
 
 An enthusiastic and dedicated student of Information Systems with a passion for the fascinating world oftechnology. Excited to learn and explore programming, new technologies.
@@ -23,7 +21,3 @@ Now I am active as an information system study student with an interest in the w
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-
-
-### Favorite artist and favorite winter song
-![facebook_1697574857848_7120145016574567576.jpg](https://github.com/Masdarul/Masdarul/assets/103945666/9e9d2f4e-01dc-47cd-b509-c71a03d68750)
